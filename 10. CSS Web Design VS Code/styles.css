@@ -1,0 +1,21 @@
+/* This is external style sheet */
+
+h1{
+    color: red;
+    font-size: 24px;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+}
+
+#science{
+    color: rgb(194, 17, 230);
+    font-size: 29px;
+}
+
+#Marvels{
+    color: brown;
+    font-size: 40px;
+}
